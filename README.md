@@ -1,5 +1,4 @@
 - 👋 Hi, I’m TylerClarkTech
-- 
 - 👀 I’m interested in: Web Development and Video Games
 - 🌱 I’m currently learning: Javascript
 - 💞️ I’m looking to collaborate on: Website designs and accessibility
