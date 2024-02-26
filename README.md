@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on: Website designs and accessibility
 - 📫 How to reach me: @TylerClarkTech on Twitter
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy camping in the wilderness.
+- ⚡ Fun fact: I enjoy camping and reading.
 
 <!---
 TylerClarkTech/TylerClarkTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
