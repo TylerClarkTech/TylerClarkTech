@@ -1,7 +1,7 @@
 - 👋 Hi, I’m TylerClarkTech
 - 👀 I’m interested in: Web Development and Video Games
 - 🌱 I’m currently learning: Javascript
-- 💞️ I’m looking to collaborate on: Website designs and accessibility
+- 💞️ I’m looking to collaborate on: Website design and accessibility
 - 📫 How to reach me: @TylerClarkTech on Twitter
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy camping and reading.
